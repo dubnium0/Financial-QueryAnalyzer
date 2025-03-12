@@ -9,7 +9,8 @@
       </ul>
 <h3> Kurulum </h3>
 <code>pip install requirements.txt</code>
-<p> .env dosyasına openai api-key ekleyin </p>
+<p> .env dosyası oluşturuğ openai api-key ekleyin </p>
+<code> OPENAI_API_KEY="your-api-key"</code>
 <h3> Örnekler <h3>
 <p>sorgu1</p>
 <img src="sorgu1.png" alt="sorgu1" width="%100" />
